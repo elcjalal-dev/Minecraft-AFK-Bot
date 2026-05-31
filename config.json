@@ -1,6 +1,6 @@
 {
-  "serverHost": "melonmcc.aternos.me",
-  "serverPort": 55728,
+  "serverHost": "avocadomc.aternos.me",
+  "serverPort": 53945,
   "botUsername": "MyBot",
   "botChunk": 1
 }
