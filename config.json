@@ -1,6 +1,6 @@
 {
-  "serverHost": "avocadomc.aternos.me",
-  "serverPort": 53945,
+  "serverHost": "MANTRALANDS.aternos.me",
+  "serverPort":  45005, 
   "botUsername": "MyBot",
   "botChunk": 1
 }
