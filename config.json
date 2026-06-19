@@ -1,6 +1,6 @@
 {
-  "serverHost": "MANTRALANDS.aternos.me",
-  "serverPort":  45005, 
-  "botUsername": "MyBot",
+  "serverHost": "alonemc.votion.dev",
+  "serverPort":  38274, 
+  "botUsername": "ALONEMC_BOT",
   "botChunk": 1
 }
